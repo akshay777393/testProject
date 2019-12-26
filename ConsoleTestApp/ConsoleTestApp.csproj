@@ -79,6 +79,7 @@
     <Compile Include="Sumofeven.cs" />
     <Compile Include="SumProc.cs" />
     <Compile Include="test.cs" />
+    <Compile Include="Test1.cs" />
     <Compile Include="TestLibrary.cs" />
   </ItemGroup>
   <ItemGroup>
